@@ -1,5 +1,5 @@
 {
-  "name": "gulp-setup",
+  "name": "browserlib-test",
   "version": "1.0.0",
   "description": "A gulp stater project",
   "main": "gulpfile.js",
@@ -39,7 +39,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/thomaslein/gulp-setup.git"
+    "url": "https://github.com/thomaslein/browserlib-test.git"
   },
   "keywords": [
     "gulp",
@@ -48,7 +48,7 @@
   ],
   "author": "Thomas Lein <thomaslein@gmail.com> (http://thomaslein.com)",
   "bugs": {
-    "url": "https://github.com/thomaslein/gulp-setup/issues"
+    "url": "https://github.com/thomaslein/browserlib-test/issues"
   },
-  "homepage": "https://github.com/thomaslein/gulp-setup"
+  "homepage": "https://github.com/thomaslein/browserlib-test"
 }
