@@ -1,11 +1,11 @@
 {
   "name": "browserlib-test",
   "version": "1.0.0",
-  "description": "A gulp stater project",
+  "description": "A test area for browser.lib",
   "main": "gulpfile.js",
   "dependencies": {
     "nib": "^1.1.0",
-    "browser.lib": "git://github.com/thomaslein/browser.lib.git#0.2.0"
+    "browser.lib": "git://github.com/thomaslein/browser.lib.git#0.3.0"
   },
   "devDependencies": {
     "browserify": "^8.1.0",
