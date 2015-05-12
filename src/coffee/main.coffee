@@ -35,7 +35,7 @@ onAnimComplete = =>
   # wrapper.replaceChild(p, @h)
   #wrapper.removeChild(p)
   #wrapper.remove()
-  #console.log(@h.siblings())
+  log(@h.siblings())
 
 
 ready(init)
